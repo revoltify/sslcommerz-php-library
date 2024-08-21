@@ -3,6 +3,7 @@
     "description": "A PHP library for SSLCommerz payment gateway integration",
     "version": "1.0.0",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "SSLCommerz\\": "src/"
