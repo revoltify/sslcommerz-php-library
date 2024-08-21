@@ -1,0 +1,16 @@
+{
+    "name": "revoltify/sslcommerz-php-library",
+    "description": "A PHP library for SSLCommerz payment gateway integration",
+    "version": "1.0.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SSLCommerz\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.9.2",
+        "symfony/http-foundation": "^v5.4.42"
+    }
+}
