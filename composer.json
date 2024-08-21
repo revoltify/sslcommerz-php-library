@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.2",
         "guzzlehttp/guzzle": "^7.9.2",
         "symfony/http-foundation": "^v5.4.42"
     }
